@@ -1,5 +1,7 @@
 # Calculadora de Áreas (Tkinter)
 
+![Screenshot da aplicação](screenshot.png)
+
 Aplicação com interface gráfica para calcular a área de seis figuras geométricas:
 triângulo, quadrado, retângulo, círculo, losango e trapézio.
 
